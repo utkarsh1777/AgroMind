@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AgroMind/static/css/main.3286bb03.css",
+    "main.js": "/AgroMind/static/js/main.b018318e.js",
+    "static/js/453.670e15c7.chunk.js": "/AgroMind/static/js/453.670e15c7.chunk.js",
+    "index.html": "/AgroMind/index.html",
+    "main.3286bb03.css.map": "/AgroMind/static/css/main.3286bb03.css.map",
+    "main.b018318e.js.map": "/AgroMind/static/js/main.b018318e.js.map",
+    "453.670e15c7.chunk.js.map": "/AgroMind/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3286bb03.css",
+    "static/js/main.b018318e.js"
+  ]
+}
